@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=worriedhenry&label=Profile%20views&color=0e75b6&style=flat" alt="worriedhenry" /> </p>
+
 - 🌱 I’m currently learning **Firebase**
 
 - 💬 Ask me about **react , next ,node and python**
@@ -9,6 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ankit-sharma-97a18224b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-sharma-97a18224b" height="30" width="40" /></a>
+<a href="https://instagram.com/kaushikankitsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushikankitsharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kaushikankitsharma05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushikankitsharma05" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kaushikankitsharma05/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaushikankitsharma05/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
