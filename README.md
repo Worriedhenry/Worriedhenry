@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">With a strong grasp of Data Structures and Algorithms and proficiency in multiple programming languages, I
+am a dedicated and solution-oriented web developer experienced in the MERN Stack and NextJs.
+Demonstrating a proven track record of delivering multiple projects, I possess an unwavering passion for
+developing dynamic and scalable web applications. As a fast learner and positive problem solver, I am highly
+motivated to apply my skills to tackle new challenges and actively contribute to open source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=worriedhenry&label=Profile%20views&color=0e75b6&style=flat" alt="worriedhenry" /> </p>
 
